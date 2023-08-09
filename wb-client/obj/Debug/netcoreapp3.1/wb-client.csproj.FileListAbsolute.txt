@@ -1,0 +1,14 @@
+C:\Users\IDAT\Downloads\WebApplication1\wb-client\bin\Debug\netcoreapp3.1\wb-client.exe
+C:\Users\IDAT\Downloads\WebApplication1\wb-client\bin\Debug\netcoreapp3.1\wb-client.deps.json
+C:\Users\IDAT\Downloads\WebApplication1\wb-client\bin\Debug\netcoreapp3.1\wb-client.runtimeconfig.json
+C:\Users\IDAT\Downloads\WebApplication1\wb-client\bin\Debug\netcoreapp3.1\wb-client.runtimeconfig.dev.json
+C:\Users\IDAT\Downloads\WebApplication1\wb-client\bin\Debug\netcoreapp3.1\wb-client.dll
+C:\Users\IDAT\Downloads\WebApplication1\wb-client\bin\Debug\netcoreapp3.1\wb-client.pdb
+C:\Users\IDAT\Downloads\WebApplication1\wb-client\obj\Debug\netcoreapp3.1\wb-client.csproj.AssemblyReference.cache
+C:\Users\IDAT\Downloads\WebApplication1\wb-client\obj\Debug\netcoreapp3.1\wb-client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IDAT\Downloads\WebApplication1\wb-client\obj\Debug\netcoreapp3.1\wb-client.AssemblyInfoInputs.cache
+C:\Users\IDAT\Downloads\WebApplication1\wb-client\obj\Debug\netcoreapp3.1\wb-client.AssemblyInfo.cs
+C:\Users\IDAT\Downloads\WebApplication1\wb-client\obj\Debug\netcoreapp3.1\wb-client.csproj.CoreCompileInputs.cache
+C:\Users\IDAT\Downloads\WebApplication1\wb-client\obj\Debug\netcoreapp3.1\wb-client.dll
+C:\Users\IDAT\Downloads\WebApplication1\wb-client\obj\Debug\netcoreapp3.1\wb-client.pdb
+C:\Users\IDAT\Downloads\WebApplication1\wb-client\obj\Debug\netcoreapp3.1\wb-client.genruntimeconfig.cache
