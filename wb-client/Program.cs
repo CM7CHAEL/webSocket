@@ -10,8 +10,8 @@ namespace wb_client
     {
         static async Task Main(string[] args)
         {
-            Console.WriteLine("Presione enter para continuar..");
-            Console.ReadLine();
+            // Console.WriteLine("Presione enter para continuar..");
+            // Console.ReadLine();
 
             using (ClientWebSocket client = new ClientWebSocket())
             {
@@ -24,7 +24,7 @@ namespace wb_client
                     //var n = 0;
                     while(client.State == WebSocketState.Open)
                     {
-                        Console.WriteLine("enter para enviar mensaje");
+                        Console.WriteLine("Escribir mensaje, enter para Enviar");
                         string message = Console.ReadLine();
                         if(!string.IsNullOrEmpty(message))
                         {
@@ -32,7 +32,7 @@ namespace wb_client
                             await client.SendAsync(byteToSend, WebSocketMessageType.Text, true, cTs.Token);
                             var responseBuffer = new byte[1024];
                             var offset = 0;
-                            var packet = 2014;
+                            var packet = 1024;
                             while(true)
                             {
                                 ArraySegment<byte> byteRecieved = new ArraySegment<byte>(responseBuffer, offset, packet);
