@@ -5,3 +5,7 @@
   Proyecto de inicio múltiple
     WebAplication1 -> inciar
     wb-client      -> iniciar
+
+# CONECCION A BASE DE DATOS EN MONGODB
+  Install-Package MongoDB.Driver
+  https://youtu.be/VMC6gSUo2lM?si=guhRNo_5qYscNK9m
