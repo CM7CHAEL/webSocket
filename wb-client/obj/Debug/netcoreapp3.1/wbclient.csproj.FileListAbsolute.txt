@@ -1,0 +1,13 @@
+C:\Users\IDAT\Downloads\webSocket\wb-client\bin\Debug\netcoreapp3.1\wbclient.exe
+C:\Users\IDAT\Downloads\webSocket\wb-client\bin\Debug\netcoreapp3.1\wbclient.deps.json
+C:\Users\IDAT\Downloads\webSocket\wb-client\bin\Debug\netcoreapp3.1\wbclient.runtimeconfig.json
+C:\Users\IDAT\Downloads\webSocket\wb-client\bin\Debug\netcoreapp3.1\wbclient.runtimeconfig.dev.json
+C:\Users\IDAT\Downloads\webSocket\wb-client\bin\Debug\netcoreapp3.1\wbclient.dll
+C:\Users\IDAT\Downloads\webSocket\wb-client\bin\Debug\netcoreapp3.1\wbclient.pdb
+C:\Users\IDAT\Downloads\webSocket\wb-client\obj\Debug\netcoreapp3.1\wbclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IDAT\Downloads\webSocket\wb-client\obj\Debug\netcoreapp3.1\wbclient.AssemblyInfoInputs.cache
+C:\Users\IDAT\Downloads\webSocket\wb-client\obj\Debug\netcoreapp3.1\wbclient.AssemblyInfo.cs
+C:\Users\IDAT\Downloads\webSocket\wb-client\obj\Debug\netcoreapp3.1\wbclient.csproj.CoreCompileInputs.cache
+C:\Users\IDAT\Downloads\webSocket\wb-client\obj\Debug\netcoreapp3.1\wbclient.dll
+C:\Users\IDAT\Downloads\webSocket\wb-client\obj\Debug\netcoreapp3.1\wbclient.pdb
+C:\Users\IDAT\Downloads\webSocket\wb-client\obj\Debug\netcoreapp3.1\wbclient.genruntimeconfig.cache

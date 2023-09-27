@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e3EWhr2ASo2zyAtvHy21FRMKoKAXJE7eJ2lL1TI6zZ9Cy9croPSbuo8xXxUEVCLygxgbOle5nePHklBalZfp8g==",
+  "dgSpecHash": "kK1/WpXpgo1kaVMv3n2/u/QAt6Qku85ncw4VU2w3GrNRB2eSp44xq3gQ8JnDuSa6W5rRH6EQDnbrKDHfiw+4Jw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IDAT\\Downloads\\WebApplication1\\wb-client\\wb-client.csproj",
+  "projectFilePath": "C:\\Users\\IDAT\\Downloads\\webSocket\\wb-client\\wbclient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IDAT\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\IDAT\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

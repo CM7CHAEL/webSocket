@@ -1,8 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "uo/1JInwaFkhk9DXBcnkZaq9bJiZpbEEHu2LWhAC6FRUQVZMlVuqGnHrPBjyJCGhPT6X2baqadNaYXLoppObhg==",
+  "dgSpecHash": "n+lwGfBGt+h4u+ybeAQG/lj0SdWi1MR/3Vw1DbGTMenIE1zfWUlkEra7/7snkcNnNo+q0xCgAEZACk6Tm2/Ttw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IDAT\\Downloads\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\IDAT\\Downloads\\webSocket\\WebApplication1\\wbserver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IDAT\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
+    "C:\\Users\\IDAT\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
+    "C:\\Users\\IDAT\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\IDAT\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\IDAT\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\IDAT\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\IDAT\\.nuget\\packages\\mongodb.bson\\2.21.0\\mongodb.bson.2.21.0.nupkg.sha512",
+    "C:\\Users\\IDAT\\.nuget\\packages\\mongodb.driver\\2.21.0\\mongodb.driver.2.21.0.nupkg.sha512",
+    "C:\\Users\\IDAT\\.nuget\\packages\\mongodb.driver.core\\2.21.0\\mongodb.driver.core.2.21.0.nupkg.sha512",
+    "C:\\Users\\IDAT\\.nuget\\packages\\mongodb.libmongocrypt\\1.8.0\\mongodb.libmongocrypt.1.8.0.nupkg.sha512",
+    "C:\\Users\\IDAT\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\IDAT\\.nuget\\packages\\snappier\\1.0.0\\snappier.1.0.0.nupkg.sha512",
+    "C:\\Users\\IDAT\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\IDAT\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\IDAT\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\IDAT\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\IDAT\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\IDAT\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512"
+  ],
   "logs": []
 }

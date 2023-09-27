@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IDAT\\Downloads\\WebApplication1\\wb-client\\wb-client.csproj": {}
+    "C:\\Users\\IDAT\\Downloads\\webSocket\\wb-client\\wb-client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IDAT\\Downloads\\WebApplication1\\wb-client\\wb-client.csproj": {
+    "C:\\Users\\IDAT\\Downloads\\webSocket\\wb-client\\wb-client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IDAT\\Downloads\\WebApplication1\\wb-client\\wb-client.csproj",
+        "projectUniqueName": "C:\\Users\\IDAT\\Downloads\\webSocket\\wb-client\\wb-client.csproj",
         "projectName": "wb-client",
-        "projectPath": "C:\\Users\\IDAT\\Downloads\\WebApplication1\\wb-client\\wb-client.csproj",
+        "projectPath": "C:\\Users\\IDAT\\Downloads\\webSocket\\wb-client\\wb-client.csproj",
         "packagesPath": "C:\\Users\\IDAT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IDAT\\Downloads\\WebApplication1\\wb-client\\obj\\",
+        "outputPath": "C:\\Users\\IDAT\\Downloads\\webSocket\\wb-client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IDAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -60,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

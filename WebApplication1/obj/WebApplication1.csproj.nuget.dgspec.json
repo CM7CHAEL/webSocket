@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IDAT\\Downloads\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\IDAT\\Downloads\\webSocket\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IDAT\\Downloads\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\IDAT\\Downloads\\webSocket\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IDAT\\Downloads\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\IDAT\\Downloads\\webSocket\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\IDAT\\Downloads\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\IDAT\\Downloads\\webSocket\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\IDAT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IDAT\\Downloads\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\IDAT\\Downloads\\webSocket\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IDAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
